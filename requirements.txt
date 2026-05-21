@@ -1,0 +1,16 @@
+tgcrypto
+requests
+pyromod
+aiohttp
+ffprobe
+asyncio
+humanize
+pycurl
+aria2
+yt-dlp==2023.10.13
+aiofiles
+logger
+pyromod
+pymongo
+wget
+httpx
